@@ -31,3 +31,26 @@ build/
 
 ### VS Code ###
 .vscode/
+
+# Compilados
+target/
+*.class
+*.jar
+*.war
+
+# Maven
+.mvn/
+mvnw
+mvnw.cmd
+
+# Configurações sensíveis
+src/main/resources/application.properties
+src/main/resources/application.yml
+
+# Logs
+*.log
+logs/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
