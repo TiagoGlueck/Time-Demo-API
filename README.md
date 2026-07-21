@@ -74,7 +74,7 @@ POST /time/criar
 Content-Type: application/json
 
 {
-    "nome": "Flamengo"
+    "nome": "Cruzeiro"
 }
 ```
 
@@ -85,9 +85,9 @@ POST /jogador/criar
 Content-Type: application/json
 
 {
-    "nome": "Ronaldo",
-    "idade": 25,
-    "altura": 183
+    "nome": "Tiago",
+    "idade": 23,
+    "altura": 185
 }
 ```
 
